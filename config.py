@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "21553328"
+API_ID = "25580413"
 # -------------------------------------------------------------
-API_HASH = "3bcc137f124bc8518c30d461986e247b"
+API_HASH = "f53003c5ff0fa40a25d0fe3933e21c37"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7940019678:AAFnZD4f0dM_PPZm9vbmuv_HGPxw6EjGswo")
+BOT_TOKEN = getenv("BOT_TOKEN", "7791021817:AAFi4qoR1_3t5CHG7fYsNtuVDh9zd-dCvmQ")
 STRING1 = getenv("STRING_SESSION", None)
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majority")
-OWNER_ID = int(getenv("OWNER_ID", "6693611573"))
-SUPPORT_GRP = "EsproSupport"
-UPDATE_CHNL = "EsproUpdate"
-OWNER_USERNAME = "Ur_Haiwan"
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://carofo7264:carofo7264@cluster0.s2ptcja.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+OWNER_ID = int(getenv("OWNER_ID", "7685184136"))
+SUPPORT_GRP = "HeavenChatGroup"
+UPDATE_CHNL = "AuraVisual"
+OWNER_USERNAME = "UseSense"
